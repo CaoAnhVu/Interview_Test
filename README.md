@@ -27,7 +27,7 @@ npm install   # (no dependencies, just sets up package.json)
 npm run test
 ```
 
-### Problem 2: Fancy Form (Currency Swap)
+# Problem 2: Fancy Form (Currency Swap)
 
 - Source code is inside `problem2/`:
   - `index.html`, `styles.css`, `app.js`
@@ -58,7 +58,7 @@ Then open `http://localhost:5173` to use the form.
 
 ```
 
-### Problem 3: Messy React - Refactored Solution
+# Problem 3: Messy React - Refactored Solution
 
 ##Issues in the Original Code
 
