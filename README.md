@@ -1,4 +1,4 @@
-<!-- ======================Problem 1========================= -->
+Test_Interview
 
 # Problem 1: Three ways to sum to n
 
@@ -27,10 +27,6 @@ npm install   # (no dependencies, just sets up package.json)
 npm run test
 ```
 
-<!-- ================================================ -->
-
-<!-- ======================== Problem 2======================== -->
-
 ### Problem 2: Fancy Form (Currency Swap)
 
 - Source code is inside `problem2/`:
@@ -57,13 +53,10 @@ npm run tokens   # generate token-manifest.json
 npm run dev      # start local dev server
 
 Then open `http://localhost:5173` to use the form.
-
-<!-- ================================================ -->
-
+```
 
 
-<!-- ======================Problem 3========================== -->
-# Problem 3: Messy React - Refactored Solution
+### Problem 3: Messy React - Refactored Solution
 
 ##Issues in the Original Code
 
@@ -128,5 +121,4 @@ function App() {
 
 export default App;
 
-<!-- ================================================ -->
 ````
